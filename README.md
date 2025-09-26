@@ -1,6 +1,8 @@
 # American-Sign-Language-Recognition-CNN
 Projenin amacı: Projem evrişimsel sinir ağları(CNN) kullanarak Amerikan işaret dili (ASL) alfabesindeki el işaretlerini tanımayı amaçlayan bir makine öğrenmesi uygulamasıdır.
 
+Kaggle linki:https://www.kaggle.com/code/selendilsaydam/american-sign-language-recognition-cnn
+
 Veri seti: Kaggle'da kullandığım veri seti 'sign-language-mnist' dir. J ve Z harfleri hariç 24 işaret sınıfı içermektedir. İçinde bulunan görüntüler 28x28 piksel boyutunda olmaktadırlar.
 
 Kullanılan teknolojiler: Programlama için makine öğrenmesinde en yaygın kullanılan dil olan Python'u kullandım. CNN mimarisi için TensorFlow ve Keras kütüphanelerini kullandım. Veri yönetimi için NumPy ve Pandas'ı; görselleştirme için de Matplotlib'i kullandım.

@@ -1,4 +1,5 @@
 # American-Sign-Language-Recognition-CNN
+
 Projenin amacı: Projem evrişimsel sinir ağları(CNN) kullanarak Amerikan işaret dili (ASL) alfabesindeki el işaretlerini tanımayı amaçlayan bir makine öğrenmesi uygulamasıdır.
 
 Kaggle veri seti: https://www.kaggle.com/datasets/datamunge/sign-language-mnist

@@ -2,6 +2,7 @@
 Projenin amacı: Projem evrişimsel sinir ağları(CNN) kullanarak Amerikan işaret dili (ASL) alfabesindeki el işaretlerini tanımayı amaçlayan bir makine öğrenmesi uygulamasıdır.
 
 Kaggle veri seti: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
+
 Kaggle notebook: https://www.kaggle.com/code/selendilsaydam/american-sign-language-recognition-cnn
 
 Veri seti: Kaggle'da kullandığım veri seti 'sign-language-mnist' dir. J ve Z harfleri hariç 24 işaret sınıfı içermektedir. İçinde bulunan görüntüler 28x28 piksel boyutunda olmaktadırlar.

@@ -7,7 +7,7 @@ Kaggle notebook: https://www.kaggle.com/code/selendilsaydam/american-sign-langua
 
 Veri seti: Kaggle'da kullandığım veri seti 'sign-language-mnist' dir. J ve Z harfleri hariç 24 işaret sınıfı içermektedir. İçinde bulunan görüntüler 28x28 piksel boyutunda olmaktadırlar.
 
-Kullanılan teknolojiler: Programlama için makine öğrenmesinde en yaygın kullanılan dil olan Python'u kullandım. CNN mimarisi için TensorFlow ve Keras kütüphanelerini kullandım. Veri yönetimi için NumPy ve Pandas'ı; görselleştirme için de Matplotlib'i kullandım.
+Kullanılan teknolojiler: Programlama için makine öğrenmesinde en yaygın kullanılan dil olan Python'u kullandım. CNN mimarisi için TensorFlow ve Keras kütüphanelerini kullandım. Veri yönetimi için NumPy ve Pandas'ı; görselleştirme için de Matplotlib'i kullandım. Modelin performansını artırmak ve aşırı öğrenmeyi önlemek için veri büyütme ve dropout gibi yöntemleri kullandım. Ek olarak etiketleri doğru şekilde temsil etmek amacıyla one hot encodingi de kullandım.
 
 Model mimarisi ve eğitimi: Model tipi olarak CNN yani evrişimsel sinir ağını kullandım. Görüntü verilerindeki el şekillerini yüksek doğrulukta öğrenmekte diğer bilinen ağlardan daha başarı olduğu için CNN'i tercih ettim.
 
